@@ -1,6 +1,6 @@
 为了方便用户使用Blockgo社群营销工具，我们将使用过程中可能遇到的问题及操作方法编写成为用户使用手册。
 
-### 一、关于Blockgo社群营销工具
+#### 一、关于Blockgo社群营销工具
 
 **1、Blcokgo支持哪些平台？**
 Blockgo目前仅支持基于Telegram的社群建立和管理。
@@ -13,7 +13,7 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 密码：Abc123456
 
 **3、使用Blockgo之前需要准备什么资料？**
-使用Blockgo之前需要准备的资料可以下载《Blockgo区块链社群营销工具信息收集表》查看并填写。
+使用Blockgo之前需要准备的资料可以下载**《Blockgo区块链社群营销工具信息收集表》**查看并填写。
 
 具体内容包含如下：
 
@@ -30,12 +30,12 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 > * 项目官网，如：www.nework.pro
 
 
-### 二、如何建立Telegram群？
+#### 二、如何建立Telegram群？
 
 1、使用Telegram桌面客户端或APP客户端，点击 New Group，选择需要拉群的用户，确认后即可创建完成；
 2、群创建完成后，进入群首页，点击Edit，可以Set Group Photo，同时可以点击Convert to SuperGroup将群组提升为超级群获得群消息置顶，专属群链接等更高权限。
 
-### 三、如何创建Telegram机器人？
+#### 三、如何创建Telegram机器人？
 
 1、在Telegram中搜索并添加一个用户名为Botfather的官方账户。
 2、和Botfather沟通，使用/newbot命令进入创建机器人流程。
@@ -45,7 +45,7 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 6、将设置完成的机器人拉到已经组建的Group中并设置为管理员，并启用全部群管理权限，此时机器人已经配置完成。
 
 
-### 四、如何配置Blockgo后台参数？
+#### 四、如何配置Blockgo后台参数？
 
 1、Blockgo后台管理功能为Home，Bot，Member，Share Event，Change Password五部分组成，对应功能如下：
 
@@ -59,13 +59,15 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 
 3、设置活动参数，后台点击Share Event即进入活动参数配置流程，该流程分为三步，分别为基础信息配置，活动规则信息配置，前台展示信息配置，分别如下：
 
-> * 基础信息配置（Base information），分别对应项目名称（Project Name），货币名称（Coin Name），项目Logo链接（Logo Url），项目群链接（Group Url），其中Logo链接可以访问https://img.vim-cn.com/ 上传Logo文件获取，Logo格式要求为300*300 PNG*格式。
+> * 基础信息配置（Base information），分别对应项目名称（Project Name），货币名称（Coin Name），项目Logo链接（Logo Url），项目群链接（Group Url），其中Logo链接可以访问https://img.vim-cn.com/ 上传Logo文件获取，Logo格式要求为圆形，300px，PNG格式。
+
 > * 活动规则信息配置（Event information），分别对应活动开始时间（Start Time），活动结束时间（End Time），进群验证奖励数额（Admission Reward），邀请好友进群验证奖励数额（Share Reward），Blockgo综合过往项目使用情况建议进群验证奖励数额应小于邀请好友进群验证奖励数额，以此鼓励用户邀请，同时建议单个邀请用户的成本控制在 ¥ 2~3 元适中。
+
 > * 前台展示信息配置（Display information），分别对应邀请链接网站英文标题（Site Title / EN），中文标题（Site Title / CN），英文活动规则说明（Event Rule / EN），中文活动规则说明（Event Rule / CN），项目官网（Website）。
 
-以上数据示例可参考《Blockgo区块链社群营销工具信息收集表》。
+以上数据示例可参考**《Blockgo区块链社群营销工具信息收集表》**。
 
-### 五、注意事项
+#### 五、注意事项
 
 1、在空投活动开始前，需要项目方确认以下问题：
 
@@ -80,9 +82,9 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 空降MEX糖果活动 (2018年2月8日-2月21日)
  
 第一步: 
-点击https://www.blockgo.cc/?i=78UG1EYTZRHSCJ6PC，输入您的以太坊钱包地址，获取您的专属邀请链接和验证码
+点击https://www.blockgo.cc/?i=78UG1EYTZRHSCJ6PC， 输入您的以太坊钱包地址，获取您的专属邀请链接和验证码
 第二步:
-点击https://t.me/joinchat/HKiVbxHm-7ndD2QeaMwg7w，进入MEX官方电报群，输入您的验证码，立得5枚MEX！
+点击https://t.me/joinchat/HKiVbxHm-7ndD2QeaMwg7w， 进入MEX官方电报群，输入您的验证码，立得5枚MEX！
 第三步: 
 分享您的专属链接，每有一个新用户通过您分享的链接加入我们的电报群，您将再获得8枚MEX！
 
@@ -102,10 +104,10 @@ NKC Airdrop 空降NKC糖果活动 (2018年1月16日-24日)
 
 只需三步，立得NKC:
 第一步: 
-前往 https://tele.nework.pro，输入您的以太坊钱包地址，获取您的专属邀请链接和验证码。
+前往 https://tele.nework.pro， 输入您的以太坊钱包地址，获取您的专属邀请链接和验证码。
  
 第二步:
-前往Nework官方电报群（https://t.me/neworkpro）输入您的验证码，立得20枚NKC。
+前往Nework官方电报群（https://t.me/neworkpro ）输入您的验证码，立得20枚NKC。
  
 第三步: 
 分享您的专属链接，每有一个新用户加入我们的电报群，您将再获得20枚NKC。
