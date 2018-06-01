@@ -76,8 +76,8 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 3、设置活动参数，后台点击Share Event即进入活动参数配置流程，该流程分为三步，分别为基础信息配置，活动规则信息配置，前台展示信息配置，分别如下：
 
 > * 基础信息配置（Base information），分别对应项目名称（Project Name），货币名称（Coin Name），项目Logo链接（Logo Url），项目群链接（Group Url），其中Logo链接可以访问https://img.vim-cn.com/ 上传Logo文件获取，Logo格式要求为圆形，300px，PNG格式。
-> * 活动规则信息配置（Event information），分别对应活动开始时间（Start Time），活动结束时间（End Time），进群验证奖励数额（Admission Reward），邀请好友进群验证奖励数额（Share Reward），Blockgo综合过往项目使用情况建议进群验证奖励数额应小于邀请好友进群验证奖励数额，以此鼓励用户邀请，同时建议单个邀请用户的成本控制在 ¥ 2~3 元适中。
-> * 前台展示信息配置（Display information），分别对应邀请链接网站英文标题（Site Title / EN），中文标题（Site Title / CN），英文活动规则说明（Event Rule / EN），中文活动规则说明（Event Rule / CN），项目官网（Website）。
+> * 活动规则信息配置（Event information），分别对应活动开始时间（Start Time），活动结束时间（End Time），进群验证奖励数额（Admission Reward），邀请好友进群验证奖励数额（Share Reward），总发币数量限制（Coin Limit），单个用户最多获得糖果数量限制（Member Coin Limit），广告清除功能开关（Ads clean，1代表开启，0代表关闭），广告敏感词清除配置（ad words），Blockgo综合过往项目使用情况建议进群验证奖励数额应小于邀请好友进群验证奖励数额，以此鼓励用户邀请，同时建议单个邀请用户的成本控制在 ¥ 2~3 元适中。
+> * 前台展示信息配置（Display information），分别对应邀请链接网站英文标题（Site Title / EN），中文标题（Site Title / CN），英文活动规则说明（Event Rule / EN），中文活动规则说明（Event Rule / CN），项目官网（Website），是否需要用户填写邮箱（Need email，1代表开启，0代表关闭）。
 
 以上数据示例可参考**《Blockgo区块链社群营销工具信息收集表》**。
 
