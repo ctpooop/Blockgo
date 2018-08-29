@@ -90,6 +90,7 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 >> * 单个用户最多获得糖果数量限制（Member Coin Limit）
 >> * 广告清除功能开关（Ads clean，1代表开启，0代表关闭）
 >> * 广告敏感词清除配置（ad words）
+>> * 新人进群欢迎语（welcome words）
 
 Blockgo综合过往项目使用情况建议进群验证奖励数额应小于邀请好友进群验证奖励数额，以此鼓励用户邀请，同时建议单个邀请用户的成本控制在 ¥ 2~3 元适中。
 
@@ -99,7 +100,8 @@ Blockgo综合过往项目使用情况建议进群验证奖励数额应小于邀�
 >> * 英文活动规则说明（Event Rule / EN）
 >> * 中文活动规则说明（Event Rule / CN）
 >> * 项目官网（Website）
->> * 是否需要用户填写邮箱（Need email，1代表开启，0代表关闭）。
+>> * 是否需要用户填写额外信息（Need Extra Field，1代表开启，0代表关闭）。
+>> * 额外信息自动展示的提示文案（Extra Field Display Name），例如"请输入邮箱/Your Email Address"
 
 以上数据示例可参考**《Blockgo区块链社群营销工具信息收集表》**。
 
