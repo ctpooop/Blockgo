@@ -15,9 +15,9 @@ Blockgo目前仅支持基于Telegram的社群建立和管理。
 
 购买Blockgo后，我们将会为对应的项目创建并开通系统使用账号，同时配置好权限。在此之前可以使用我们的测试账号进行测试及体验。
 
-测试地址：http://www.blockgo.cc
+测试地址：http://test.blockgo.waibaodashi.com/Portal/User/login.html 
 
-账号：demo@nework.pro
+账号：blockgo
 
 密码：Abc123456
 
